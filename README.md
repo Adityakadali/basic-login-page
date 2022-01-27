@@ -1,4 +1,4 @@
-# crappy-login
+# Basic Login Page
 A login screen made with Tkinter for touch screens
 
 Installation:
